@@ -1,0 +1,61 @@
+.title
+{
+    width: 100%;
+    height: 51px;
+    background-color: black;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    color: #E0D0BB;
+font-family: "Mate SC";
+font-size: 42px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 5.46px;
+text-transform: uppercase;
+}
+.search-title
+{
+    color: #000;
+font-family: "Mate SC";
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+padding: 30px;
+}
+.dive-item
+{
+    border-top: 2px solid black;
+    margin-top: 30px;
+    width: 100hh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.dive-title
+{
+    color: rgb(0, 0, 0);
+font-family: "Mate SC";
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 30px;
+}
+.dive-content
+{
+    color: #000;
+text-align: center;
+font-family: "Mate SC";
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 152%; /* 42.56px */
+text-decoration: underline;
+padding: 20px;
+}
